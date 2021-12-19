@@ -1,3 +1,3 @@
 number = 24
-number += 1
-print(number%2)
+number = (number + 1)%2
+print(number)
