@@ -1,2 +1,2 @@
-n = 43
-print(n%2)
+number = 43
+print(number%2)
